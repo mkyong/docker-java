@@ -10,7 +10,7 @@
     <version>1.0</version>
 
     <name>docker-java-app</name>
-    <url>http://www.mkyong.com</url>
+    <url>https://mkyong.com/docker/docker-and-java-application-examples/</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
